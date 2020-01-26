@@ -13,7 +13,7 @@ Here provide simple flow to show how we do it, and you can find it in report fil
 ![image](https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/img/flow.png)
 
 # Relation method
-You must confuse: What is relation method?And what is target article? 
+You must be confuse: What is relation method?And what is target article? 
 
 As 0verview mention, we convert word to vector, and we count distance in vector space with some algorithms like Manhattan Distance or Euclidean Distance between target article and each finance news.
 
