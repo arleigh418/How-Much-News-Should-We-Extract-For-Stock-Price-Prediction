@@ -10,6 +10,7 @@ This project use finance news and stock price as features, and we convert word t
 
 # Process Flow
 Here provide simple flow to show how we do it, and you can find it in report file.
+![image](https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/img/flow.png)
 
 # Relation method
 You must confuse: What is relation method?And what is target article? 
