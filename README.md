@@ -33,7 +33,7 @@ Article Dealing : Just use a stop words dictionary 、 Stop word dictionary+Gett
 # Code Description
 1. You can run : run_all.py in Stage3_Model_Test and Stage3_2Model_Test, I have arranged how to execute.
 2. What is different between Stage3_Model_Test and Stage3_2Model_Test and also other folders? The folders name with 1_2 or 2_2 or 3_2 mean we use target company introduction in wiki as the center, and others like 1_ or 2_ or 3_ mean using target company name as center.
-3. In run_all.py , Data Prepare1-4 just need to execute once,no matter how many times you want to run this project(Assuming you haven't changed anything),but Data Prepare5 in run_all.py in Stage3_2Model_Test is not found in Stage3_Model_Test, if you first run the run_all.py in Stage3_Model_Test, then if you run run_all.py in Stage3_2Model_Test,you need to execute Data Prepare5 once.
+3. In run_all.py , Data Prepare1-4 just need to execute once,no matter how many times you want to run this project(Assuming you haven't changed anything),but Data Prepare5 in run_all.py in Stage3_2Model_Test is not found in Stage3_Model_Test, if you first run the run_all.py in Stage3_Model_Test, then you need to execute Data Prepare5 once when running run_all.py in Stage3_2Model_Test.
 4. Folder : test_result store predict line chart.
 
 You can replace others deep learning model like DA-RNN or others you like, and you can also try other distance algorithm like Chebyshev Distance or Hamming Distance.
