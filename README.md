@@ -1,4 +1,4 @@
-# How-Much-News-Should-We-Extract-For-Stock-Price-Prediction"
+# How-Much-News-Should-We-Extract-For-Stock-Price-Prediction
 
 # First of all
 1. You can refer Test Result Report.pdf, We record in detail how we do it and the results.
