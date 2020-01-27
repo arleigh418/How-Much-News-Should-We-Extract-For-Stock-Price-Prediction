@@ -1,7 +1,7 @@
 # How-Much-News-Should-We-Extract-For-Stock-Price-Prediction
 
 # First of all
-1. You can refer Test Result Report.pdf, We record in detail how we do it and the results.
+1. You can refer Test Result Report.pdf, we record in detail how we do it and the results.
 2. Please run os_folder_create.py first, it will help you create folder.
 
 # Overview
