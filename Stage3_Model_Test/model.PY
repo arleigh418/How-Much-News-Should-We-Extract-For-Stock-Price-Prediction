@@ -7,12 +7,6 @@ import matplotlib
 import pandas as pd
 
 
-torch.manual_seed(777)  # reproducibility
-
-# if "DISPLAY" not in os.environ:
-#     # remove Travis CI Error
-#     matplotlib.use('Agg')
-
 import matplotlib.pyplot as plt
 
 
