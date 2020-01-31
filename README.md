@@ -36,19 +36,6 @@ Article Dealing : Just use a stop words dictionary 、 Stop word dictionary+Gett
 3. In run_all.py , Data Prepare1-4 just need to execute once,no matter how many times you want to run this project(Assuming you haven't changed anything),but Data Prepare5 in run_all.py in Stage3_2Model_Test is not found in Stage3_Model_Test, if you first run the run_all.py in Stage3_Model_Test, then you need to execute Data Prepare5 once when running run_all.py in Stage3_2Model_Test.
 4. Folder : test_result store predict line chart.
 
-# Conclusion
-| Compare Result                                                        |
-|               | 6180TW           | 2317TW  | 2324TW           | 2412TW  | 2886TW  |
-| ------------- |:-------------:| -----:|:-------------:|:-------------:|
-| Class1-StockPrice| 靠右對齊      | $1600 |靠右對齊      |靠右對齊      |$1600 |
-| Class2-fluctuation | 置中對齊      |   $12 |靠右對齊      |靠右對齊      |$1600 |
-| Company Intro| 是整齊的      |    $1 |靠右對齊      |靠右對齊      |$1600 |
-| CompanyIntro - Extract amount| $1600 |靠右對齊      |靠右對齊      |$1600 |
-| 靠右對齊      | $1600 |靠右對齊      |靠右對齊      |$1600 |
-| 第二欄        | 置中對齊      |   $12 |靠右對齊      |靠右對齊      |$1600 |
-| 斑馬條紋      | 是整齊的      |    $1 |靠右對齊      |靠右對齊      |$1600 |
-
-
 You can replace others deep learning model like DA-RNN or others you like, and you can also try other distance algorithm like Chebyshev Distance or Hamming Distance.
 
 If you have any qeustions, please contact me for free, and welcome any discussions!
