@@ -24,7 +24,7 @@ Target company: 2412TW、2317TW、2886TW、2324TW、6180TW
 
 Deep Learning model : LSTM
 
-Word Embedding model : Word2vec、fastText
+Word Embedding model : word2vec、fastText
 
 Vector Distance: Manhattan Distance、Euclidean Distance、Cosine Similarity
 
