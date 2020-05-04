@@ -1,5 +1,5 @@
 # How-Much-News-Should-We-Extract-For-Stock-Price-Prediction
-## Please refer this project paper : https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/Test%20Result%20Report.pdf
+## Please refer project paper : https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/Test%20Result%20Report.pdf
 # First of all
 1. You can refer Test Result Report.pdf, we record in detail how we do it and the results.
 2. Please run os_folder_create.py first, it will help you create folder.
