@@ -1,5 +1,5 @@
 # How-Much-News-Should-We-Extract-For-Stock-Price-Prediction
-## Please refer project paper : https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/Test%20Result%20Report.pdf
+## Please refer project paper : https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/Project%20Paper.pdf
 # First of all
 1. You can refer Test Result Report.pdf, we record in detail how we do it and the results.
 2. Please run os_folder_create.py first, it will help you create folder.
@@ -39,3 +39,8 @@ Article Dealing : Just use a stop words dictionary 、 Stop word dictionary+Gett
 You can replace others deep learning model like DA-RNN or others you like, and you can also try other distance algorithm like Chebyshev Distance or Hamming Distance.
 
 If you have any qeustions, please contact me for free, and welcome any discussions!
+
+# Result
+We have two scenario : Company name as extraction center & Company wiki introduction as extraction center
+:arrow_down_small:
+![image](https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/img/Company_name.png)
