@@ -42,5 +42,9 @@ If you have any qeustions, please contact me for free, and welcome any discussio
 
 # Result
 We have two scenario : Company name as extraction center & Company wiki introduction as extraction center
-:arrow_down_small:
+
+:arrow_down_small: Result of company name as center
 ![image](https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/img/Company_name.png)
+
+:arrow_down_small: Result of Company wiki introduction as center
+![image](https://github.com/arleigh418/How-Much-News-Should-We-Extract-For-Stock-Price-Prediction/blob/master/img/Company_intro.png)
